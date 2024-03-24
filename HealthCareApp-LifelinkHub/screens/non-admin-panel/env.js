@@ -1,0 +1,13 @@
+export const dialogflowConfig = {
+  "type": "service_account",
+  "project_id": "healthcarebot-upp9",
+  "private_key_id": "407136168e9550e960ca40ca2177fc0dfb2ac6d9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCtheRR6MTOw8gk\nGjoz55BSlKj0QNAFXP+ZLTjOk3vzM8FpNSYbR5gFQew0cUh+1ydWg9axc3kvXMA5\nePcZQig2bHl4d8tcUFqpZHgiqg642VBhqR4txY3GuWeuapXsJYwsLLdjvYR/mLeO\njsbMnko8rRq5IAAyGg8IWml4fLLUlie+kI8R93pVBxNToGqoZt4QvB5j+wyYYMq4\nKSy84CNlivRae0Cpqqilq3ps6PlngW83EWENKb36KZ9yHo079j+DVKhRfGy3Jcpl\nJDcOfxiYXwC3mjoMj8deflhEuSzdUIM8wS31xkdg6dDCN/KBKOdwjfB3/+QUblfg\nsl39u27DAgMBAAECggEABlT99W04jVEAoyyf1hgLoK/TEIKy9JclrpnDWmpwWfoY\nAzZQyysMJZj3vRwrKJHCWjpaYcRUdkF8tDwxTCcpX38K2bYJYjd+b3L+nUk2W1F2\nyPGKa+IrH8bRPUCfcuwV1uDU2ltmk99nR1j3cS0PiXJJqNq9lxZzWPsvoRlvzykS\nLPVDFAzFAYEHSZJ6egKwK5xDYOtimYjhju9LSwjfZHckEQDwSweabxLYEvv7Ou1a\nWvUtYphNsqm12WrV9e2wF+ySg7NAgwNBwjA0m3JjxMMewbs9ulyZyMFaUb7C/iZe\nSDOjInVMmXz283g50J0Cx6kffMgm6+gm4cSfHN61gQKBgQDV0UB9ZmwlSkShhB5u\nW/0SKgHICFByFhFgdLgb6YYXe8uFvxXJCRvjrQ6ttWSJ+YOA4aZcxpnUO70+DbyL\nzgVNvYnfyA73VFfgIqvC+6QtMvM1ngcx8J0E5qNoctkDcvNL0jY3uJQuATLGr4KR\noqjOauPD2664v4nVzuOphPl3QwKBgQDPwZdbjUQ/cWmsI8chxATwo7ltul+rYJfE\noTrE5RqFzVLUqOIyiFKqx45HdpaOe5Ps6KfxTKTBcdeILrurY884/+Z2FRgDaEnY\nVdmDJpr9eHy0Xln7CeA5oCSu8Ikbq2jI4kg8gR+S8nfII9EgVna+HzSfRE99AFGO\njIj6NoPygQKBgQCcRB9Gxsk5A6tfA+kdrNsrIEpHAFSS3K/8d7FqrOQUW6Rl7j6k\nu6SHZB47NDvzXskOM1xbp8YbR0HKjU2EO6DCrUiLpXHSrvC+XXh8u17Erdz0Dbei\ndwC66Tj6CB20mJlZi5uWY67gZH3QmcrqVx/aJGKr7O0oFsxM17SpWwbbcwKBgEJu\niNOBjH0s6rlch2RIpbu83qIzojvOmzkIxR4IlD6MtRvDFPFLngN15Az94o6U/WwX\nyPvjohspJ94n82KOe8iiKzM+83rDcjl22iKRyaWbTWTvdp5LPiOvDYvS5kSuvsbd\ndHPEZjA60ApzSX+ppjaNC+qRkUlLPMj0LyizHeYBAoGBAI4ypmMz2nawmH/rKQB2\nrHrU5Vg9q+zLMu2jbWu8GnCEP8Z3TnsTrE6yvSSXegklHDUJeJoEl3PKrO9OITnU\nDQmPnQCPjXvs7UyyH2fPtHusNCTTEPwsFv+EoQHOeqO6gTqQufzYJ5K58w8RLSYv\n5BHsbpjl22KMMw/U5HMGYlOG\n-----END PRIVATE KEY-----\n",
+  "client_email": "mentalhealthbotserviceaccount@healthcarebot-upp9.iam.gserviceaccount.com",
+  "client_id": "103871671572480873706",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.co m/robot/v1/metadata/x509/mentalhealthbotserviceaccount%40healthcarebot-upp9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+};
